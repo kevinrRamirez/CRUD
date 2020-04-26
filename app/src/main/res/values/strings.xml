@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CRUD</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="apellido">Apellido</string>
+    <string name="cliente">Cliente</string>
+    <string name="listado">Listado</string>
+
+</resources>
